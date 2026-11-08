@@ -1,5 +1,5 @@
 // แทนค่าจาก Firebase Console > Project settings > Your apps > SDK setup and configuration
- const firebaseConfig = {
+ export const firebaseConfig = {
     apiKey: "AIzaSyDLivAm3P3hEacfME0mD-UsgXzwt1lwnos",
     authDomain: "krusongz.firebaseapp.com",
     projectId: "krusongz",
